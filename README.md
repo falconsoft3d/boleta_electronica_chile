@@ -18,3 +18,5 @@
 
 # Documentación
 https://github.com/falconsoft3d/boleta_electronica_chile/blob/main/boletas_elec_020.pdf
+
+https://github.com/falconsoft3d/boleta_electronica_chile/blob/main/reso74.pdf
