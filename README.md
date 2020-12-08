@@ -1,4 +1,4 @@
-# boleta_electronica_chile
+# Cambio en Boleta Electronica Chile
 
 · Se elimina la obligación de estar inscrito en factura electrónica para la inscripción y emisión de boletas electrónicas.
 
