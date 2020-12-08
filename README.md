@@ -1,4 +1,4 @@
-# Cambio en Boleta Electronica Chile
+# Cambio en Boleta Electronica Chile 2021
 
 · Se elimina la obligación de estar inscrito en factura electrónica para la inscripción y emisión de boletas electrónicas.
 
