@@ -15,3 +15,6 @@
 · La representación virtual será la regla general y podrá ser entregada en medios tecnológicos, dejando opcional la entrega del documento impreso.
 
 · Se mantiene el envío de resumen de ventas diarias y se extiende la obligación para todas las empresas que emitan estos documentos.
+
+# Documentación
+https://github.com/falconsoft3d/boleta_electronica_chile/blob/main/boletas_elec_020.pdf
